@@ -1,3 +1,4 @@
 pandas
 matplotlib==3.9.2
 seaborn
+babel==2.14.0
